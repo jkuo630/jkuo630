@@ -7,4 +7,4 @@
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
 </p>
 
-<p align="center"><samp>I'm a student at the <b>University of British Columbia</b>, majoring in <b>Computer Science and Business<b></samp></p>
+<p align="center"><samp>I'm a student at the <b>University of British Columbia</b>, majoring in 💻 <b>Computer Science and Business<b> 📊</samp></p>
