@@ -10,5 +10,5 @@
 <p align="center"><samp>I'm a student at the <b>University of British Columbia</b>, majoring in 💻 <b>Computer Science and Business<b> 📊</samp></p>
 <p align="center"><samp>Check out my <a href="https://devpost.com/jkuo630?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="text-decoration: none">Devpost</a> for more cool hackathon projects!</samp></h3>
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkuo630&show_icons=true&theme=radical&card_width=550)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkuo630&layout=compact&card_width=550)](https://github.com/anuraghazra/github-readme-stats)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkuo630&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkuo630&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
