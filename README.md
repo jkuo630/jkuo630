@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"><samp>I'm a student at the <b>University of British Columbia</b>, double majoring in 💻 <b>Computer Science and Business<b> 📊</samp></p>
-<p align="center"><samp>Current Full-Stack Software Engineer Intern @ PipeIQ </samp></p>
+<p align="center"><samp>Current Software Engineer Intern @ Boeing </samp></p>
 <p align="center"><samp>Check out my <a href="https://devpost.com/jkuo630?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" style="text-decoration: none">Devpost</a> for more cool hackathon projects!</samp></h3>
 	
 <div align="center">
